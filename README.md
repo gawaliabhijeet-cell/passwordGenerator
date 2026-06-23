@@ -1,4 +1,3 @@
-# React + Vite
 
 # 🔐 Advanced Password Generator
 
@@ -24,3 +23,6 @@ A sleek, highly interactive, and responsive web-based password generator built w
 * **Hooks Used**: `useState`, `useCallback`, `useEffect`, `useRef`
 
 ---
+## 📸 Preview
+
+![Project Screenshot](./Screenshot/shot.png)
