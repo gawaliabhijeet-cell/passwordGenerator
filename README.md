@@ -33,7 +33,7 @@ A sleek, highly interactive, and responsive web-based password generator built w
 Clone the repository:
 
 ```bash
-git clone https://github.com/gawaliabhijeet-cell/login_From.git
+git clone https://github.com/gawaliabhijeet-cell/passwordGenerator.git
 ```
 
 Install dependencies:
