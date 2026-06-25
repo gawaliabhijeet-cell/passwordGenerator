@@ -26,3 +26,24 @@ A sleek, highly interactive, and responsive web-based password generator built w
 ## 📸 Preview
 
 ![Project Screenshot](./Screenshot/shot.png)
+
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/gawaliabhijeet-cell/login_From.git
+```
+
+Install dependencies:
+
+```bash
+npm create vite@latest
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
